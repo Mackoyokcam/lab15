@@ -27,4 +27,8 @@ Boop!
 # Alice is Lazy!!!!!
 - Carol & Bob
 
+<<<<<<< HEAD
+sup yall 
+=======
 # carol is not as lazy as Alice but she is not Ted 
+>>>>>>> 645f657c47a8a5c4faf7517ea06c461991560002
