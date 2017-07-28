@@ -1,4 +1,7 @@
 
+#I think therefore I am..Alice
+
+
 Mom says no one is perfect.
 Teacher says practice makes perfect.
 I'm just gonna quit.
@@ -11,6 +14,8 @@ about at week back.
 
 pabam ppshh...
 
+
+# My name is ted and i am adding a feature.
 Alpine springs is the shit!
 whatter is good for you.
 
