@@ -1,5 +1,5 @@
 
-#I think therefore I am..Alice
+# I think therefore I am..Alice
 
 
 Mom says no one is perfect.
@@ -26,3 +26,5 @@ Boop!
 
 # Alice is Lazy!!!!!
 - Carol & Bob
+
+# carol is not as lazy as Alice but she is not Ted 
